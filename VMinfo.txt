@@ -1,0 +1,6 @@
+Kali VM
+Kali Linux 2020.3
+User: bbpoison
+Password: babypoison
+eth0
+  DHCP
